@@ -41,3 +41,9 @@ for movie in sorted_similar_movies:
     if (i<10):
                                                    print(i, '.', title_from_index)
                                                    i+=1
+                                                   
+                                                   
+                                                   
+To conclude, this system recommends movies to a user based on Movie title-based filtering. The cosine similarity allows the system to produce movies with similar index value, thus recommending accurate and similar suggestions.
+
+
